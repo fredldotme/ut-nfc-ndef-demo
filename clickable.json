@@ -1,0 +1,7 @@
+{
+  "clickable_minimum_required": "6.22.0",
+  "builder": "qmake",
+  "kill": "ndefeditor",
+  "make_jobs": 4,
+  "qt_version": "5.12"
+}
